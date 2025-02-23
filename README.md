@@ -1,5 +1,5 @@
-### Hi there 👋, My Self Sayad Golam Morshed
-#### I am a Full-Stack Web Developer
+### Hi there 👋, I am
+
 ![I am a Full-Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQH6jqxX7De8yQ/profile-displaybackgroundimage-shrink_350_1400/B56ZUzY9AIGUAc-/0/1740323935306?e=1746057600&v=beta&t=pPJLi9w5pWMV19FNRf3eNZbDvnsvzhqqPyFz87aPxqE)
 
 Passionate and detail-oriented Full Stack Web Developer with expertise in front-end and back-end technologies. Seeking to leverage my skills in JavaScript, React, Node.js, and database management to develop scalable, high-performance web applications.
